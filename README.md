@@ -1,6 +1,6 @@
 # Ethical Hacking & Cybersecurity Projects Portfolio
 
-Welcome to my ethical hacking and cybersecurity projects portfolio. These projects were performed in controlled lab environments using Kali Linux, DVWA, OWASP Juice Shop, and other tools to improve my practical skills in penetration testing, network security, and social engineering.
+This is CA Manish Shrestha and welcome to my ethical hacking and cybersecurity projects portfolio. I did this as a hobby and these projects were performed in controlled lab environments using Kali Linux, DVWA, OWASP Juice Shop, and other tools to improve my practical skills in penetration testing, network security, and social engineering.
 
 ---
 
